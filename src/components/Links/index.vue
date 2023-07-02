@@ -53,7 +53,7 @@ import {
   Blog,
   CompactDisc,
   Cloud,
-  Chat,
+  Airbnb,
   Compass,
   Book,
   Fire,
@@ -82,7 +82,7 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Cloud,
-  Chat,
+  Airbnb,
 };
 
 // 链接跳转
